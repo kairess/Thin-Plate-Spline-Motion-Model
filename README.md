@@ -1,6 +1,6 @@
 # Deepfake with Single Image in Realtime
 
-![](https://user-images.githubusercontent.com/5242555/213098322-7231e96f-b482-4e3c-a83b-1bfe56f25d25.mp4)
+<video src="https://user-images.githubusercontent.com/5242555/213098322-7231e96f-b482-4e3c-a83b-1bfe56f25d25.mp4" width="800" controls></video>
 
 ```
 python realtime.py
